@@ -1,0 +1,2 @@
+# R5T.NetStandard.IO
+Metapackage for all R5T.NetStandard.IO packages.
