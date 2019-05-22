@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="R5T.NetStandard.IO.Paths" Version="0.0.1" />
+    <PackageReference Include="R5T.NetStandard.IO.Serialization" Version="0.0.1" />
+    <PackageReference Include="R5T.NetStandard.IO.Types" Version="0.0.2" />
+  </ItemGroup>
+</Project>

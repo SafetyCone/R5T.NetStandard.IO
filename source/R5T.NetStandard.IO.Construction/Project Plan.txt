@@ -1,0 +1,4 @@
+R5T.NetStandard.IO.Construction - A construction console entry-point for the R5T.NetStandard.IO library (Metapackage for all R5T.NetStandard.IO packages.).
+
+Goals
+
