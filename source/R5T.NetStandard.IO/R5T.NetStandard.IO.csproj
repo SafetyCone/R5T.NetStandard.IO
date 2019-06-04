@@ -1,11 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>0.0.2</Version>
+    <Version>0.0.3</Version>
+	<GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>1701;1702;1591</NoWarn>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="R5T.NetStandard.IO.Paths" Version="0.0.1" />
+    <PackageReference Include="R5T.NetStandard.IO.Paths" Version="0.0.10" />
     <PackageReference Include="R5T.NetStandard.IO.Serialization" Version="0.0.2" />
-    <PackageReference Include="R5T.NetStandard.IO.Types" Version="0.0.2" />
+    <PackageReference Include="R5T.NetStandard.IO.Types" Version="0.0.4" />
   </ItemGroup>
 </Project>
