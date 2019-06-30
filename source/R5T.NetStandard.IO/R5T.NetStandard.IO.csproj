@@ -7,5 +7,6 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\..\R5T.NetStandard.IO.Paths\source\R5T.NetStandard.IO.Paths\R5T.NetStandard.IO.Paths.csproj" />
+    <ProjectReference Include="..\..\..\R5T.NetStandard.Logging.Types\source\R5T.NetStandard.Logging.Types\R5T.NetStandard.Logging.Types.csproj" />
   </ItemGroup>
 </Project>
